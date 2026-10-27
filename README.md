@@ -264,3 +264,8 @@ Maintained by the Sustain Insight team.
 Have questions, ideas, or feedback? Contact `contact.sustain-insight@blipzo.xyz`.
 
 © 2025 Sustain Insight. All rights reserved.
+
+
+## Code learning guide
+
+[Read the code walkthrough and interview questions](docs/INTERVIEW_GUIDE.md).
